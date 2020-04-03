@@ -175,7 +175,7 @@ aside:nth-of-type(2){
 }
 footer{
 	clear: both;
-	width: 950px;
+	width: 500px;
 	height: 90px;
 	background: rgb(161,219,255); /* Old browsers */
 background: -moz-linear-gradient(top, rgba(161,219,255,1) 23%, rgba(161,219,255,1) 25%, rgba(240,249,255,1) 86%); /* FF3.6-15 */
